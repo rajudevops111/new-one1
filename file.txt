@@ -2,4 +2,5 @@ welcome to git
 git a open source
 in git branches is light weight
 adding another branch 
-we can learn git
+ gii is compressive tool
+ 
