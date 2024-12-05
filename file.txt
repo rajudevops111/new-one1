@@ -2,6 +2,9 @@ welcome to git
 git a open source
 in git branches is light weight
 adding another branch 
+git is a comprhessive tool
+this is the demonstrite
+this is the change done remote
  gii is compressive tool
  this change in local
  
